@@ -1,0 +1,14 @@
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\bin\Debug\net8.0\Devices_dz_8.exe
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\bin\Debug\net8.0\Devices_dz_8.deps.json
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\bin\Debug\net8.0\Devices_dz_8.runtimeconfig.json
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\bin\Debug\net8.0\Devices_dz_8.dll
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\bin\Debug\net8.0\Devices_dz_8.pdb
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\obj\Debug\net8.0\Devices_dz_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\obj\Debug\net8.0\Devices_dz_8.AssemblyInfoInputs.cache
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\obj\Debug\net8.0\Devices_dz_8.AssemblyInfo.cs
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\obj\Debug\net8.0\Devices_dz_8.csproj.CoreCompileInputs.cache
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\obj\Debug\net8.0\Devices_dz_8.dll
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\obj\Debug\net8.0\refint\Devices_dz_8.dll
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\obj\Debug\net8.0\Devices_dz_8.pdb
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\obj\Debug\net8.0\Devices_dz_8.genruntimeconfig.cache
+C:\Users\zikol\Documents\ProjectVisual\С# ШАГ\Devices_dz_8\obj\Debug\net8.0\ref\Devices_dz_8.dll
